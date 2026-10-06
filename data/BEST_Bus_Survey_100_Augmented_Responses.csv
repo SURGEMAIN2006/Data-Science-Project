@@ -1,0 +1,101 @@
+Timestamp,1. What is your age?,2. What is your gender?,3. What is your occupation?,4. How often do you travel by BEST bus?,5. What is your main purpose for using BEST buses?,6. How long is your typical BEST bus journey?,7. What is your usual waiting time for a BEST bus?,8. How crowded is the BEST bus usually when you travel?,9. How would you rate BEST bus punctuality?,10. How would you rate the cleanliness of BEST buses?,11. How would you rate the behavior of BEST drivers and conductors?,12. How safe do you feel while travelling by BEST?,13. How satisfied are you with BEST bus fares?,14. How frequently do you experience delays while travelling by BEST?,"15. Overall, how satisfied are you with BEST bus services?"
+2026-09-17 12:33:59.702,18–20,Male,Student,Daily,College / Education,Less than 15 minutes,11–15 minutes,3,4,3,2,5,5,Often,4
+2026-09-17 12:43:18.161,18–20,Male,Student,Occasionally,Visiting Friends / Family,46–60 minutes,16–30 minutes,3,2,3,4,4,5,Often,3
+2026-09-17 12:43:25.688,18–20,Male,Student,Occasionally,Visiting Friends / Family,15–30 minutes,16–30 minutes,4,2,4,3,4,3,Very Often,3
+2026-09-17 12:56:27.520,18–20,Female,Student,Occasionally,Visiting Friends / Family,15–30 minutes,More than 30 minutes,4,2,3,3,3,4,Very Often,4
+2026-09-17 13:06:11.738,21–25,Male,Working Professional,Once a week,Tourism / Leisure,Less than 15 minutes,16–30 minutes,4,3,3,3,2,3,Often,3
+2026-09-17 13:07:47.951,21–25,Female,Student,Occasionally,Other,15–30 minutes,11–15 minutes,5,2,4,4,3,3,Rarely,2
+2026-09-17 13:08:12.503,18–20,Male,Student,2–3 times a week,College / Education,15–30 minutes,11–15 minutes,3,4,2,1,1,1,Sometimes,2
+2026-09-17 13:08:54.560,18–20,Female,Student,Occasionally,Tourism / Leisure,15–30 minutes,11–15 minutes,3,3,3,2,2,4,Sometimes,4
+2026-09-17 13:13:22.150,18–20,Female,Self-employed,Occasionally,Work / Office,46–60 minutes,More than 30 minutes,5,1,3,3,3,4,Very Often,1
+2026-09-17 13:25:55.257,21–25,Male,Working Professional,Once a week,Work / Office,Less than 15 minutes,5–10 minutes,4,3,3,2,4,3,Rarely,5
+2026-09-17 13:27:27.931,21–25,Male,Student,Daily,College / Education,15–30 minutes,11–15 minutes,5,1,2,1,5,3,Often,2
+2026-09-17 13:29:30.195,21–25,Male,Working Professional,2–3 times a week,Work / Office,15–30 minutes,5–10 minutes,1,1,2,1,1,4,Rarely,3
+2026-09-17 13:42:02.527,21–25,Male,Student,2–3 times a week,College / Education,15–30 minutes,5–10 minutes,4,3,3,4,4,5,Sometimes,4
+2026-09-17 13:42:31.014,Below 18,Female,Student,Occasionally,Tourism / Leisure,15–30 minutes,11–15 minutes,3,4,3,3,4,5,Rarely,4
+2026-09-17 13:50:53.103,Above 35,Female,Other,Once a week,Other,31–45 minutes,11–15 minutes,4,2,3,3,3,5,Often,4
+2026-09-17 14:05:10.776,18–20,Male,Student,4–6 times a week,College / Education,15–30 minutes,11–15 minutes,4,3,2,3,2,4,Rarely,3
+2026-09-17 14:22:38.117,26–35,Male,Working Professional,Occasionally,Visiting Friends / Family,More than 60 minutes,11–15 minutes,3,3,4,4,5,5,Rarely,4
+2026-09-17 14:24:26.471,26–35,Male,Working Professional,Daily,Work / Office,46–60 minutes,16–30 minutes,4,2,3,3,4,5,Often,4
+2026-09-17 14:25:16.469,18–20,Male,Student,Occasionally,College / Education,Less than 15 minutes,5–10 minutes,5,1,4,2,5,5,Sometimes,2
+2026-09-17 14:26:06.175,26–35,Male,Working Professional,4–6 times a week,Work / Office,46–60 minutes,5–10 minutes,4,2,3,3,4,5,Often,4
+2026-09-17 14:26:39.713,26–35,Male,Working Professional,Occasionally,Work / Office,46–60 minutes,16–30 minutes,5,1,3,5,3,3,Very Often,5
+2026-09-17 14:28:12.915,26–35,Male,Working Professional,Once a week,Work / Office,15–30 minutes,5–10 minutes,4,4,4,4,4,5,Sometimes,5
+2026-09-17 14:35:11.822,26–35,Male,Business,Occasionally,College / Education,Less than 15 minutes,11–15 minutes,3,2,4,3,4,5,Sometimes,5
+2026-09-17 14:35:21.841,26–35,Male,Working Professional,Occasionally,Visiting Friends / Family,31–45 minutes,11–15 minutes,3,4,4,4,5,5,Sometimes,5
+2026-09-17 14:40:01.197,26–35,Male,Working Professional,Occasionally,Work / Office,15–30 minutes,16–30 minutes,5,4,3,3,3,1,Very Often,3
+2026-09-17 15:00:11.869,26–35,Male,Working Professional,2–3 times a week,Work / Office,15–30 minutes,11–15 minutes,3,4,4,5,5,5,Sometimes,5
+2026-09-17 15:23:53.056,26–35,Male,Working Professional,2–3 times a week,Work / Office,15–30 minutes,11–15 minutes,3,2,3,3,4,4,Often,3
+2026-09-17 15:24:39.249,18–20,Female,Student,4–6 times a week,College / Education,Less than 15 minutes,5–10 minutes,3,4,5,5,5,4,Rarely,5
+2026-09-17 15:59:16.890,21–25,Female,Student,Once a week,College / Education,15–30 minutes,16–30 minutes,5,3,4,5,4,3,Often,3
+2026-09-17 16:27:39.867,21–25,Female,Working Professional,Once a week,Visiting Friends / Family,31–45 minutes,11–15 minutes,4,4,2,3,3,3,Sometimes,3
+2026-09-17 16:29:32.228,18–20,Female,Business,2–3 times a week,Shopping,46–60 minutes,5–10 minutes,3,2,2,5,3,4,Rarely,4
+2026-09-17 16:32:08.024,26–35,Female,Self-employed,Daily,Work / Office,31–45 minutes,5–10 minutes,5,4,4,1,2,3,Sometimes,3
+2026-09-17 16:33:08.544,Above 35,Male,Working Professional,Daily,Work / Office,Less than 15 minutes,11–15 minutes,4,4,4,5,4,5,Sometimes,5
+2026-09-17 16:33:40.163,Below 18,Female,Student,Daily,College / Education,15–30 minutes,11–15 minutes,4,3,3,4,2,3,Often,4
+2026-09-17 16:42:50.963,26–35,Male,Working Professional,Occasionally,Tourism / Leisure,31–45 minutes,5–10 minutes,4,4,4,2,1,3,Often,2
+2026-09-17 16:57:00.014,21–25,Female,Working Professional,2–3 times a week,Work / Office,15–30 minutes,16–30 minutes,4,2,4,3,2,5,Often,4
+2026-09-17 17:17:27.541,21–25,Female,Student,Occasionally,Other,15–30 minutes,5–10 minutes,3,2,3,3,3,3,Rarely,3
+2026-09-17 17:30:35.468,26–35,Female,Working Professional,Occasionally,Work / Office,46–60 minutes,16–30 minutes,4,3,3,4,4,5,Sometimes,4
+2026-09-17 17:45:36.785,21–25,Male,Student,Occasionally,Other,Less than 15 minutes,Less than 5 minutes,3,2,4,4,5,3,Rarely,3
+2026-09-17 20:47:50.686,18–20,Female,Student,Once a week,College / Education,15–30 minutes,11–15 minutes,3,4,4,3,4,3,Sometimes,2
+2026-09-17 21:53:41.641,26–35,Female,Working Professional,Occasionally,Other,31–45 minutes,5–10 minutes,3,3,3,3,3,5,Sometimes,3
+2026-09-17 23:52:45.097,18–20,Male,Student,Occasionally,College / Education,15–30 minutes,16–30 minutes,3,1,5,3,5,3,Often,4
+2026-09-18 00:34:53.978,21–25,Female,Student,Occasionally,Tourism / Leisure,31–45 minutes,More than 30 minutes,5,3,3,3,3,3,Often,2
+2026-09-18 08:14:00.000,18–20,Male,Student,Occasionally,Other,15–30 minutes,11–15 minutes,3,2,3,3,2,5,Rarely,3
+2026-09-18 08:15:00.000,26–35,Male,Student,Occasionally,College / Education,Less than 15 minutes,More than 30 minutes,3,1,3,4,1,4,Often,2
+2026-09-18 08:16:00.000,21–25,Male,Self-employed,4–6 times a week,Work / Office,Less than 15 minutes,11–15 minutes,3,3,3,3,4,4,Often,3
+2026-09-18 08:17:00.000,18–20,Male,Working Professional,Occasionally,Visiting Friends / Family,15–30 minutes,11–15 minutes,4,3,4,1,5,3,Sometimes,3
+2026-09-18 08:18:00.000,Above 35,Male,Working Professional,Daily,Work / Office,31–45 minutes,16–30 minutes,5,2,3,3,4,4,Sometimes,2
+2026-09-18 08:19:00.000,18–20,Male,Business,Daily,Tourism / Leisure,31–45 minutes,5–10 minutes,3,1,4,2,2,5,Sometimes,4
+2026-09-18 08:20:00.000,18–20,Male,Student,Once a week,Work / Office,15–30 minutes,5–10 minutes,4,4,4,4,3,5,Sometimes,2
+2026-09-18 08:21:00.000,26–35,Female,Student,2–3 times a week,College / Education,15–30 minutes,5–10 minutes,5,3,4,2,1,5,Often,2
+2026-09-18 08:22:00.000,Above 35,Female,Working Professional,Once a week,Other,Less than 15 minutes,11–15 minutes,3,4,4,3,3,1,Sometimes,4
+2026-09-18 08:23:00.000,21–25,Male,Working Professional,Occasionally,Visiting Friends / Family,46–60 minutes,5–10 minutes,3,1,3,1,3,3,Often,3
+2026-09-18 08:24:00.000,18–20,Female,Student,Occasionally,College / Education,15–30 minutes,11–15 minutes,3,2,3,4,3,1,Rarely,4
+2026-09-18 08:25:00.000,18–20,Male,Working Professional,2–3 times a week,Other,Less than 15 minutes,11–15 minutes,3,4,4,2,5,4,Often,4
+2026-09-18 08:26:00.000,26–35,Female,Working Professional,2–3 times a week,College / Education,15–30 minutes,5–10 minutes,3,4,3,3,2,5,Often,3
+2026-09-18 08:27:00.000,26–35,Male,Working Professional,2–3 times a week,College / Education,31–45 minutes,5–10 minutes,3,4,4,5,5,5,Sometimes,4
+2026-09-18 08:28:00.000,18–20,Male,Working Professional,Once a week,College / Education,15–30 minutes,11–15 minutes,5,4,3,3,4,5,Sometimes,3
+2026-09-18 08:29:00.000,26–35,Female,Student,4–6 times a week,College / Education,Less than 15 minutes,11–15 minutes,4,4,4,3,2,3,Sometimes,4
+2026-09-18 08:30:00.000,21–25,Male,Working Professional,4–6 times a week,Work / Office,15–30 minutes,11–15 minutes,5,4,2,5,4,5,Often,1
+2026-09-18 08:31:00.000,21–25,Male,Student,Occasionally,College / Education,Less than 15 minutes,16–30 minutes,5,4,3,4,4,3,Often,3
+2026-09-18 08:32:00.000,26–35,Female,Student,Daily,Other,15–30 minutes,11–15 minutes,3,3,4,3,2,3,Often,2
+2026-09-18 08:33:00.000,Above 35,Male,Working Professional,Daily,Visiting Friends / Family,Less than 15 minutes,5–10 minutes,4,4,3,3,2,4,Often,3
+2026-09-18 08:34:00.000,21–25,Male,Student,Daily,College / Education,Less than 15 minutes,5–10 minutes,3,3,4,4,3,5,Often,5
+2026-09-18 08:35:00.000,26–35,Female,Working Professional,Occasionally,College / Education,Less than 15 minutes,11–15 minutes,3,4,4,3,3,5,Often,5
+2026-09-18 08:36:00.000,21–25,Male,Student,Occasionally,Visiting Friends / Family,Less than 15 minutes,11–15 minutes,5,4,2,3,5,5,Often,5
+2026-09-18 08:37:00.000,26–35,Male,Student,Once a week,Tourism / Leisure,Less than 15 minutes,11–15 minutes,4,2,3,4,3,4,Often,5
+2026-09-18 08:38:00.000,18–20,Female,Student,Occasionally,Tourism / Leisure,46–60 minutes,16–30 minutes,4,3,3,5,3,3,Rarely,5
+2026-09-18 08:39:00.000,18–20,Male,Other,Once a week,College / Education,15–30 minutes,16–30 minutes,4,4,4,3,3,4,Rarely,4
+2026-09-18 08:40:00.000,21–25,Female,Student,Once a week,College / Education,Less than 15 minutes,More than 30 minutes,5,4,3,2,3,3,Often,3
+2026-09-18 08:41:00.000,18–20,Male,Other,2–3 times a week,Other,15–30 minutes,16–30 minutes,4,2,3,4,4,1,Very Often,4
+2026-09-18 08:42:00.000,18–20,Male,Student,Once a week,College / Education,31–45 minutes,5–10 minutes,4,2,3,3,2,5,Sometimes,2
+2026-09-18 08:43:00.000,21–25,Male,Student,Once a week,College / Education,15–30 minutes,16–30 minutes,5,1,5,5,4,3,Rarely,2
+2026-09-18 08:44:00.000,Below 18,Female,Student,Occasionally,College / Education,46–60 minutes,5–10 minutes,4,3,3,5,4,3,Sometimes,3
+2026-09-18 08:45:00.000,Below 18,Female,Working Professional,2–3 times a week,Work / Office,More than 60 minutes,More than 30 minutes,3,2,3,3,1,5,Often,3
+2026-09-18 08:46:00.000,21–25,Male,Business,Occasionally,Work / Office,Less than 15 minutes,5–10 minutes,4,2,4,4,4,4,Often,1
+2026-09-18 08:47:00.000,18–20,Male,Working Professional,Occasionally,Other,Less than 15 minutes,16–30 minutes,3,1,4,2,4,3,Often,4
+2026-09-18 08:48:00.000,26–35,Female,Working Professional,2–3 times a week,College / Education,31–45 minutes,11–15 minutes,3,4,4,1,5,5,Often,3
+2026-09-18 08:49:00.000,21–25,Male,Working Professional,Once a week,Tourism / Leisure,Less than 15 minutes,5–10 minutes,4,2,4,4,5,5,Sometimes,3
+2026-09-18 08:50:00.000,26–35,Female,Student,Occasionally,Tourism / Leisure,More than 60 minutes,11–15 minutes,4,4,3,3,3,3,Rarely,4
+2026-09-18 08:51:00.000,21–25,Male,Working Professional,Occasionally,Work / Office,15–30 minutes,16–30 minutes,3,4,4,5,3,4,Often,5
+2026-09-18 08:52:00.000,21–25,Female,Student,4–6 times a week,College / Education,Less than 15 minutes,11–15 minutes,4,3,5,3,3,3,Often,2
+2026-09-18 08:53:00.000,21–25,Male,Working Professional,Once a week,College / Education,31–45 minutes,More than 30 minutes,4,2,3,4,3,5,Very Often,5
+2026-09-18 08:54:00.000,21–25,Male,Business,2–3 times a week,Work / Office,31–45 minutes,16–30 minutes,5,4,4,4,2,4,Often,3
+2026-09-18 08:55:00.000,18–20,Female,Student,2–3 times a week,College / Education,15–30 minutes,16–30 minutes,3,3,3,3,3,3,Sometimes,5
+2026-09-18 08:56:00.000,18–20,Female,Working Professional,2–3 times a week,Visiting Friends / Family,46–60 minutes,5–10 minutes,3,4,3,4,2,3,Sometimes,3
+2026-09-18 08:57:00.000,21–25,Male,Self-employed,Daily,College / Education,15–30 minutes,11–15 minutes,5,4,4,3,3,3,Often,4
+2026-09-18 08:58:00.000,18–20,Male,Working Professional,2–3 times a week,Visiting Friends / Family,15–30 minutes,5–10 minutes,4,3,2,3,3,5,Sometimes,3
+2026-09-18 08:59:00.000,26–35,Female,Student,Occasionally,Visiting Friends / Family,15–30 minutes,5–10 minutes,5,4,5,5,4,5,Often,4
+2026-09-18 09:00:00.000,18–20,Female,Working Professional,Daily,College / Education,Less than 15 minutes,16–30 minutes,3,2,2,3,2,3,Often,3
+2026-09-18 09:01:00.000,26–35,Female,Working Professional,Occasionally,Tourism / Leisure,15–30 minutes,11–15 minutes,4,4,2,3,5,5,Often,5
+2026-09-18 09:02:00.000,Below 18,Male,Student,Occasionally,Work / Office,Less than 15 minutes,16–30 minutes,1,2,4,1,4,5,Sometimes,3
+2026-09-18 09:03:00.000,Below 18,Male,Student,Daily,Work / Office,15–30 minutes,11–15 minutes,4,4,2,3,2,3,Very Often,4
+2026-09-18 09:04:00.000,21–25,Male,Working Professional,Occasionally,Tourism / Leisure,15–30 minutes,5–10 minutes,3,3,4,3,3,5,Often,4
+2026-09-18 09:05:00.000,26–35,Female,Business,Occasionally,College / Education,15–30 minutes,16–30 minutes,5,2,3,3,4,3,Often,4
+2026-09-18 09:06:00.000,18–20,Female,Self-employed,2–3 times a week,Tourism / Leisure,46–60 minutes,11–15 minutes,1,1,3,3,2,5,Often,4
+2026-09-18 09:07:00.000,21–25,Female,Self-employed,Occasionally,Work / Office,46–60 minutes,5–10 minutes,5,3,3,1,3,5,Often,3
+2026-09-18 09:08:00.000,Below 18,Female,Student,Once a week,Other,46–60 minutes,16–30 minutes,5,1,4,4,2,5,Often,4
+2026-09-18 09:09:00.000,26–35,Male,Working Professional,Once a week,College / Education,46–60 minutes,11–15 minutes,4,4,2,3,5,3,Often,4
+2026-09-18 09:10:00.000,26–35,Male,Working Professional,Occasionally,College / Education,15–30 minutes,11–15 minutes,3,4,3,3,2,5,Sometimes,4
